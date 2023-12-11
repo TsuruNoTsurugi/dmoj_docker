@@ -1,11 +1,15 @@
 archive: aplusb.zip
 checker: standard
 test_cases:
-- batched:
-  - in: aplusb.1.in
-    out: aplusb.1.out
-  - in: aplusb.2.in
-    out: aplusb.2.out
-  - in: aplusb.3.in
-    out: aplusb.3.out
-  points: 20
+- in: aplusb/aplusb.4.in
+  out: aplusb/aplusb.4.out
+  points: 1
+- in: aplusb/aplusb.1.in
+  out: aplusb/aplusb.1.out
+  points: 1
+- in: aplusb/aplusb.2.in
+  out: aplusb/aplusb.2.out
+  points: 1
+- in: aplusb/aplusb.3.in
+  out: aplusb/aplusb.3.out
+  points: 1
