@@ -1,0 +1,41 @@
+archive: akisaib.zip
+checker: standard
+test_cases:
+- batched:
+  - in: akisaib/case1.in
+    out: akisaib/case1.out
+  - in: akisaib/case2.in
+    out: akisaib/case2.out
+  - in: akisaib/case3.in
+    out: akisaib/case3.out
+  - in: akisaib/case4.in
+    out: akisaib/case4.out
+  - in: akisaib/case5.in
+    out: akisaib/case5.out
+  - in: akisaib/case6.in
+    out: akisaib/case6.out
+  - in: akisaib/case7.in
+    out: akisaib/case7.out
+  - in: akisaib/case8.in
+    out: akisaib/case8.out
+  - in: akisaib/case9.in
+    out: akisaib/case9.out
+  - in: akisaib/case10.in
+    out: akisaib/case10.out
+  - in: akisaib/case11.in
+    out: akisaib/case11.out
+  - in: akisaib/case12.in
+    out: akisaib/case12.out
+  - in: akisaib/case13.in
+    out: akisaib/case13.out
+  - in: akisaib/case14.in
+    out: akisaib/case14.out
+  - in: akisaib/case15.in
+    out: akisaib/case15.out
+  - in: akisaib/sample1.in
+    out: akisaib/sample1.out
+  - in: akisaib/sample2.in
+    out: akisaib/sample2.out
+  - in: akisaib/sample3.in
+    out: akisaib/sample3.out
+  points: 100

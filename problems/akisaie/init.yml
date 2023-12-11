@@ -1,0 +1,113 @@
+archive: DMOJ.zip
+checker: standard
+test_cases:
+- batched:
+  - in: DMOJ/case1.in
+    out: DMOJ/case1.out
+  - in: DMOJ/case2.in
+    out: DMOJ/case2.out
+  - in: DMOJ/case3.in
+    out: DMOJ/case3.out
+  - in: DMOJ/case4.in
+    out: DMOJ/case4.out
+  - in: DMOJ/case5.in
+    out: DMOJ/case5.out
+  - in: DMOJ/case6.in
+    out: DMOJ/case6.out
+  - in: DMOJ/case7.in
+    out: DMOJ/case7.out
+  - in: DMOJ/case8.in
+    out: DMOJ/case8.out
+  - in: DMOJ/case9.in
+    out: DMOJ/case9.out
+  - in: DMOJ/case10.in
+    out: DMOJ/case10.out
+  - in: DMOJ/case11.in
+    out: DMOJ/case11.out
+  - in: DMOJ/case12.in
+    out: DMOJ/case12.out
+  - in: DMOJ/case13.in
+    out: DMOJ/case13.out
+  - in: DMOJ/case14.in
+    out: DMOJ/case14.out
+  - in: DMOJ/case15.in
+    out: DMOJ/case15.out
+  - in: DMOJ/case16.in
+    out: DMOJ/case16.out
+  - in: DMOJ/case17.in
+    out: DMOJ/case17.out
+  - in: DMOJ/case18.in
+    out: DMOJ/case18.out
+  - in: DMOJ/case19.in
+    out: DMOJ/case19.out
+  - in: DMOJ/case20.in
+    out: DMOJ/case20.out
+  - in: DMOJ/case21.in
+    out: DMOJ/case21.out
+  - in: DMOJ/case22.in
+    out: DMOJ/case22.out
+  - in: DMOJ/case23.in
+    out: DMOJ/case23.out
+  - in: DMOJ/case24.in
+    out: DMOJ/case24.out
+  - in: DMOJ/case25.in
+    out: DMOJ/case25.out
+  - in: DMOJ/case26.in
+    out: DMOJ/case26.out
+  - in: DMOJ/case27.in
+    out: DMOJ/case27.out
+  - in: DMOJ/case28.in
+    out: DMOJ/case28.out
+  - in: DMOJ/case29.in
+    out: DMOJ/case29.out
+  - in: DMOJ/case30.in
+    out: DMOJ/case30.out
+  - in: DMOJ/case31.in
+    out: DMOJ/case31.out
+  - in: DMOJ/case32.in
+    out: DMOJ/case32.out
+  - in: DMOJ/case33.in
+    out: DMOJ/case33.out
+  - in: DMOJ/case34.in
+    out: DMOJ/case34.out
+  - in: DMOJ/case35.in
+    out: DMOJ/case35.out
+  - in: DMOJ/case36.in
+    out: DMOJ/case36.out
+  - in: DMOJ/case37.in
+    out: DMOJ/case37.out
+  - in: DMOJ/case38.in
+    out: DMOJ/case38.out
+  - in: DMOJ/case39.in
+    out: DMOJ/case39.out
+  - in: DMOJ/case40.in
+    out: DMOJ/case40.out
+  - in: DMOJ/case41.in
+    out: DMOJ/case41.out
+  - in: DMOJ/case42.in
+    out: DMOJ/case42.out
+  - in: DMOJ/case43.in
+    out: DMOJ/case43.out
+  - in: DMOJ/case44.in
+    out: DMOJ/case44.out
+  - in: DMOJ/case45.in
+    out: DMOJ/case45.out
+  - in: DMOJ/case46.in
+    out: DMOJ/case46.out
+  - in: DMOJ/case47.in
+    out: DMOJ/case47.out
+  - in: DMOJ/case48.in
+    out: DMOJ/case48.out
+  - in: DMOJ/case49.in
+    out: DMOJ/case49.out
+  - in: DMOJ/case50.in
+    out: DMOJ/case50.out
+  - in: DMOJ/sample1.in
+    out: DMOJ/sample1.out
+  - in: DMOJ/sample2.in
+    out: DMOJ/sample2.out
+  - in: DMOJ/sample3.in
+    out: DMOJ/sample3.out
+  - in: DMOJ/sample4.in
+    out: DMOJ/sample4.out
+  points: 100
