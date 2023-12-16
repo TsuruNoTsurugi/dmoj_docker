@@ -21,4 +21,4 @@ USER judge
 ARG SITE_HOST web
 
 # wait until site server is active.
-ENTRYPOINT sleep 20 && dmoj -c ~/problems/judge.yml ${SITE_HOST}
+ENTRYPOINT sleep 5 && dmoj -c ~/problems/judge.yml ${SITE_HOST}
